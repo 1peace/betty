@@ -1,9 +1,3 @@
-**bower**
-
-```
-bower install fetch --save
-```
-
 **npm**
 
 ```
